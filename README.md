@@ -6,10 +6,6 @@
 [![All Releases Download](https://img.shields.io/github/downloads/LazyImmortal/Sesame/total.svg)](../../releases)
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/Sesame_Channels)
 
-## 为了大家的资金安全与个人信息安全，强烈建议
-1. 不要使用任何未开放源代码的修改版！
-2. 不要使用任何未开放源代码的修改版！
-3. 不要使用任何未开放源代码的修改版！
 
 ## 主要功能
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
